@@ -1,6 +1,6 @@
 ---
-name: ux-due-diligence
-description: Bridge business intent, user evidence, research planning, and design readiness. Challenge requirements, identify uncertainty, select appropriate research methods, design structured research activities, organize evidence, and determine whether a project is ready for responsible UX design.
+name: research-prerequisites
+description: Validate research prerequisites before UX design begins. Challenge requirements, identify uncertainty, select appropriate research methods, design structured research activities, organize evidence, and determine whether a project is ready for responsible design decisions.
 license: MIT
 metadata:
   author: Sayan Mondal
